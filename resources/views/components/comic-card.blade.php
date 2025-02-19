@@ -1,5 +1,5 @@
 @php
-$comics=include(resource_path('comics-array/comics.php'));
+$comics=config("comics");
 
 @endphp
 

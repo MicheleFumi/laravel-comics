@@ -1,5 +1,5 @@
 @php
-$comics=include(resource_path('comics-array/comics.php'));
+$comics=config("comics");
 
 @endphp
 @extends("layouts.master")
@@ -22,7 +22,6 @@ $comics=include(resource_path('comics-array/comics.php'));
         </div>
                <div class="button-container">
                 <a href="#" class="button-load text-white text-decoration-none ">LOAD MORE</a>
-
                 </div> 
      
              

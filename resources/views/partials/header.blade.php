@@ -1,8 +1,10 @@
 <header>
 <div class="container py-4">
     <div class="d-flex justify-content-between align-items-center">
-        
+        <a href="#">
           <img src="{{asset('/img/dc-logo.png')}}" alt="DC Logo">
+        </a>
+         
     
         
 
