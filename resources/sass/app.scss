@@ -62,7 +62,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
-    bottom: -100px; 
+    bottom: -180px; 
     right: 0px;
     z-index: 2;
     width: 100%;  
@@ -81,11 +81,33 @@
 
 h5 {
     font-weight: bold;
-    margin-bottom: 10px;
-}
 
-ul li {
-    margin-bottom: 8px;
 }
 
 
+.closing-footer{
+    background-color: #303030; 
+
+}
+
+.sign-button{
+    border: 2px solid #0282f9;
+    text-decoration: none;
+
+    
+    
+}
+
+.follow-us{
+    color:#0282f9;
+    font-weight:bolder;
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+
+.social-icons img {
+    width: 30px; 
+    height: auto;
+    vertical-align: middle;
+}
