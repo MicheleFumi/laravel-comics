@@ -7,10 +7,12 @@
  --}}
        </div>
       
-    <div class="container"> 
-       
-               <div class="comics-list text-white">
-                <h1>i'm batman!!</h1>
+    <div class="container  text-white"> 
+       <div class="current-series text-center p-3 d-none d-xl-block">
+<h2 class="m-0"><strong>CURRENT SERIES</strong></h2>
+ </div>
+               <div class="comics-list">
+                <h1 class="d-inline-block">i'm batman!!</h1>
                </div>
                 
         

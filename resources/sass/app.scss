@@ -12,8 +12,22 @@
     height: 400px; 
     background-size: cover;
    
+   
   }
   
   .main-body{
     background-color: #1c1c1c;
+  }
+  .container{
+    position: relative;
+  }
+
+  .current-series{
+    background-color: #0282f9;
+   
+    position: absolute;
+    z-index: 100;
+    left: -10px;
+    top:-20px;
+   
   }
