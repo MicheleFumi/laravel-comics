@@ -31,3 +31,61 @@
     top:-20px;
    
   }
+
+  .button-load {
+    display: inline-block;
+    background-color: #0282f9;
+    padding: 0.5rem 5rem;
+    font-size: 1.2rem; 
+    font-weight: bolder;
+    text-align: center;
+     margin-bottom: 2rem;
+     
+}
+.button-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+ 
+}
+
+.jumbo-blue{
+    background-color: #0282f9;
+}
+
+.feature-icon {
+    width: 40px;  
+    height: auto;
+}
+
+.bg-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: -100px; 
+    right: 0px;
+    z-index: 2;
+    width: 100%;  
+    height: auto;
+
+}
+
+.container-with-bg-img {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+  
+  
+}
+
+h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+
